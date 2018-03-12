@@ -1,1 +1,1 @@
-react16 with redux starting page 
+It has lots of bugs. I used react 14 and update to 16.  You can check it is not working for the login form. Second, React Router V4 is different from V3, so the router has a problem for BrowserRouter for signup.  
