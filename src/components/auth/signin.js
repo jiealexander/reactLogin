@@ -19,7 +19,6 @@ class Signin extends Component {
         }
     }
 
-
     render() {
         const { handleSubmit, fields: { email, password}} = this.props;
 
@@ -48,3 +47,10 @@ export default reduxForm({
     form: 'signin',
     fields: ['email', 'password']
 }, mapStateToProps, actions)(Signin);
+
+
+
+
+
+
+
